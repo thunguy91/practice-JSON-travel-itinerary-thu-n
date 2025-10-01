@@ -1,0 +1,42 @@
+{
+  "tripName": "Upcoming Travels",
+  "traveler": {
+    "name": "Thu Nguyen",
+    "contact": {
+      "email": "thu.nguyen@example.com",
+      "phone": "+1-123-456-7890"
+    }
+  },
+  "destinations": [
+    {
+      "location": "New York",
+      "arrivalDate": "10-03-2025",
+      "departureDate": "10-04-2025",
+      "activities": [
+        {
+          "title": "Hotel Check-In",
+          "time": "3:00 PM"
+        },
+        {
+          "title": "Richard's Birthday Dinner",
+          "time": "7:00 PM"
+        }
+      ]
+    },
+    {
+      "location": "Philadelphia, PA",
+      "arrivalDate": "10-24-2025",
+      "departureDate": "10-27-2025",
+      "activities": [
+        {
+          "title": "Eagles vs. Giants",
+          "time": "1:00 PM"
+        },
+        {
+          "title": "Rocky Steps",
+          "time": "7:00 PM"
+        }
+      ]
+    }
+  ]
+}
