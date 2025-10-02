@@ -10,6 +10,10 @@
   "destinations": [
     {
       "location": "New York",
+      "transportation": {
+        "mode": "car",
+        "cost": 50
+      }
       "arrivalDate": "10-03-2025",
       "departureDate": "10-04-2025",
       "activities": [
@@ -25,6 +29,10 @@
     },
     {
       "location": "Philadelphia, PA",
+       "transportation": {
+          "mode": "flight",
+          "cost": 250
+      }
       "arrivalDate": "10-24-2025",
       "departureDate": "10-27-2025",
       "activities": [
@@ -35,6 +43,25 @@
         {
           "title": "Rocky Steps",
           "time": "7:00 PM"
+        }
+      ]
+    },
+    {
+      "location": "San Franciso, CA",
+       "transportation": {
+         "mode": "flight",
+          "cost": 350
+      }
+      "arrivalDate": "12-20-2025",
+      "departureDate": "12-27-2025",
+      "activities": [
+        {
+          "title": "Golden Gate Bridge",
+          "time": "8:00 AM"
+        },
+        {
+          "title": "Yosemite National Park",
+          "time": "11:00 PM"
         }
       ]
     }
